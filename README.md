@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently  a 4 year computer science student specializing as an ai engineer at apna college.
+I am currently  a 4 year computer science student specializing as an ai engineer at Apna College.
 
 
 ## 🌐 Socials:
