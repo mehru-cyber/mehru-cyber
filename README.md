@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently  a 4 year computer science student specializing as an ai engineer at Apna College.
+I am an AI/ML Engineer specializing in LLM application development, Retrieval-Augmented Generation (RAG), and multi-agent orchestration. I have deep experience designing and deploying production-grade AI systems with LangGraph, LangChain, FastAPI, and vector databases, with a strong focus on reliability, latency optimization, and security hardening.
+
+Recently, I completed a comprehensive AI/ML program from Apna College and DataCamp, which further sharpened my practical skills in building and deploying intelligent systems securely and efficiently at scale.
 
  
 
